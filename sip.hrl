@@ -1,0 +1,1 @@
+-record(sip_message,{type,data}).
